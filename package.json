@@ -12,5 +12,18 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "This is a simple bulleted todo list app that allows you to add and remove todo. The purpose of this project is to get more used to React and its syntax.",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R-en/bulletedList.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/R-en/bulletedList/issues"
+  },
+  "homepage": "https://github.com/R-en/bulletedList#readme"
 }
